@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1494964349 source:d:\c++\c++ project\word\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<dirent.h>
+	<cstring>
+

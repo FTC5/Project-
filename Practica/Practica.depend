@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1489953650 source:d:\c++ project\practica\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+

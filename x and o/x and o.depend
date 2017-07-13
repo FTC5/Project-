@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1495734646 source:d:\c++\c++ project\x and o\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<cstring>
+	<math.h>
+
+1495731647 source:d:\c++\c++ project\x and o\test.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+

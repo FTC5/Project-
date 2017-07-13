@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1487430058 source:d:\c++ project\n1\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+
+1487434126 source:d:\c++\c++ project\n1\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+

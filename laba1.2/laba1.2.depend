@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487437282 source:d:\c++\c++ project\c++ project\laba1.2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<conio.h>
+

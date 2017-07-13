@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496248631 source:d:\c++\c++ project\dz3\test.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<math.h>
+	<cstring>
+
